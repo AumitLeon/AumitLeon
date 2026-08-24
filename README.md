@@ -6,4 +6,4 @@ I'm Aumit Leon, a Software Engineer building performant, scalable, and secure AP
 - 🌱 Hacking on end to end machine learning, agentic workflows, reproducible builds/development environments, and much more.
 - 💬 Thinking about sustainable software, organizations, and practices.
 
-See my blog: 💻 https://aumitleon.dev/
+💻 https://aumitleon.dev/
